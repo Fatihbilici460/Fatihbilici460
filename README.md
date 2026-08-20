@@ -4,7 +4,7 @@
   <br>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Mustafa+Kemal+%C3%9Cnv.+YBS+3.+S%C4%B1n%C4%B1f+%C3%96%C4%9Frencisiyim;Yapay+Zeka+%26+Veri+Bilimi;Web+Geli%C5%9Ftirme+%26+Siber+G%C3%BCvenlik;Vibe+Coding+%26+Yeni+Teknolojiler" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=mustafa+Kemal+%C3%9Cnv.+YBS+3.+S%C4%B1n%C4%B1f+%C3%96%C4%9Frencisiyim;Yapay+Zeka+%26+Veri+Bilimi;Web+Geli%C5%9Ftirme+%26+Siber+G%C3%BCvenlik;Vibe+Coding+%26+Yeni+Teknolojiler" alt="Typing SVG" />
   </a>
   
   <br><br>
