@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Mehmet%20Fatih%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Y%C3%B6netim%20Bili%C5%9Fim%20Sistemleri%20%C3%96%C4%9Frencisi%20%7C%20AI%20%26%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Mehmet%20Fatih&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YBS%20Ogrencisi%20%7C%20AI%20and%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
+  
+  <br>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Mustafa+Kemal+%C3%9Cnv.+YBS+3.+S%C4%B1n%C4%B1f+%C3%96%C4%9Frencisiyim+%F0%9F%8E%93;Yapay+Zeka+%26+Veri+Bilimi+%F0%9F%A4%96;Web+Geli%C5%9Ftirme+%26+Siber+G%C3%BCvenlik+%F0%9F%9B%A1%EF%B8%8F;Vibe+Coding+%26+Yeni+Teknolojiler+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Mustafa+Kemal+%C3%9Cnv.+YBS+3.+S%C4%B1n%C4%B1f+%C3%96%C4%9Frencisiyim;Yapay+Zeka+%26+Veri+Bilimi;Web+Geli%C5%9Ftirme+%26+Siber+G%C3%BCvenlik;Vibe+Coding+%26+Yeni+Teknolojiler" alt="Typing SVG" />
   </a>
-  <br>
+  
+  <br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=Fatihbilici460&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" />
 </div>
@@ -51,13 +55,16 @@ yaklaşım:    Vibe Coding & Sürekli Öğrenme
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatihbilici460&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <h3>📊 GitHub İstatistikleri & Aktivite</h3>
+  <img src="https://streak-stats.demolab.com/?user=Fatihbilici460&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatihbilici460&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
   <br>
-  ⭐ <b>Profilime uğradığınız için teşekkürler! Birlikte üretmek ve çalışmakk dileğiyle 🚀</b>
+  ⭐ <b>Profilime uğradığınız için teşekkürler! Birlikte üretmek ve kod yazmak dileğiyle 🚀</b>
 </div>
