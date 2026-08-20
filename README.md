@@ -66,5 +66,5 @@ yaklaşım:    Vibe Coding & Sürekli Öğrenme
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
   <br>
-  ⭐ <b>Profilime uğradığınız için teşekkürler! Birlikte üretmek ve kod yazmak dileğiyle 🚀</b>
+  ⭐ <b>Profilime uğradığınız için teşekkürler! Birlikte üretmek ve çalışmak dileğiyle 🚀</b>
 </div>
